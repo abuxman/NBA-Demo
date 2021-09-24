@@ -2256,7 +2256,7 @@ button.btn.btn-secondary[ng-click="doVerification()"]:focus {
 }
 
 .numeric-details {
-    display: none;
+    display: none !important;
 }
 
 #cost-label,
