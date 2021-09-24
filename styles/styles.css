@@ -6,6 +6,11 @@
     display: none;
 }
 
+.quizContainer {
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
 body>iframe:nth-child(12) {
     display: none;
 }
